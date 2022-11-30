@@ -1,11 +1,9 @@
 .class {
     background-color:indianred;
-    font-family:"Verdana", "dejaVu Sans", sans-serif;
+    font-family: Verdana, "dejaVu Sans", sans-serif;
 }
 
-.cool.class{
-    background-color:indianred;
-    font-family:"Verdana", "dejaVu Sans", sans-serif;
+.cool{
     font-size: 24px;
 }
 
